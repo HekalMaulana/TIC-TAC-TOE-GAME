@@ -1,0 +1,10 @@
+.col {
+    border: 5px solid black;
+    height: 150px;
+    font-size: 90px;
+    padding: -10px;
+}
+
+body {
+    height: 800px;
+}
